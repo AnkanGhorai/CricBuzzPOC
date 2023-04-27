@@ -1,4 +1,7 @@
 package com.example.cricbuzzpoc.datatypes.enums;
 
-public enum MatchResult {
+public enum MatchsStatus {
+    ONGOING,
+    CANCELLED,
+    FINISHED
 }
